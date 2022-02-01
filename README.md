@@ -1,11 +1,16 @@
 # **Whatsapp Bot**
 
 This is a bot created for [Likraft](https://likraft.com/) 
+
 ![](./img/1.jpg)
 
 ## Demo
----
-[](./img/2.mp4)
+
+
+
+https://user-images.githubusercontent.com/95216160/151937758-9d02e507-595f-43ec-8288-2c78655d79e3.mp4
+
+
 
 ## Setup
 ```
@@ -15,14 +20,14 @@ This is a bot created for [Likraft](https://likraft.com/)
 ![](img/Screenshot%202022-02-01%20122608.jpg)
 
 ```
-                                    │
-                                    │ ┌─────────────────────────────┐
-                                    │ │  Expopse a web server on    │
-                                    │ │  port 5000 of your local    │
-                                    │ │  machine to the internet    │
-                                    │ └─────────────────────────────┘
-                                    │
-                                    ▼
+                                                      │
+                                                      │ ┌─────────────────────────────┐
+                                                      │ │  Expopse a web server on    │
+                                                      │ │  port 5000 of your local    │
+                                                      │ │  machine to the internet    │
+                                                      │ └─────────────────────────────┘
+                                                      │
+                                                      ▼
 ```
 
 ```
@@ -31,14 +36,14 @@ ngrok http https://localhost:5001
 
 ![](./img/Screenshot%202022-02-01%20122341.jpg)
 ```
-                                    │
-                                    │ ┌─────────────────────────────┐
-                                    │ │ Paste it as the webhook url │
-                                    │ │ for incomming messages in   │
-                                    │ │ your sandbox                │
-                                    │ └─────────────────────────────┘
-                                    │
-                                    ▼
+                                                      │
+                                                      │ ┌─────────────────────────────┐
+                                                      │ │ Paste it as the webhook url │
+                                                      │ │ for incomming messages in   │
+                                                      │ │ your sandbox                │
+                                                      │ └─────────────────────────────┘
+                                                      │
+                                                      ▼
 ```
 
 ![](./img/Screenshot%202022-02-01%20123311.jpg)
